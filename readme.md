@@ -1,6 +1,15 @@
 Infinite Adventures
 ===================
 
+Update 11/1/2016
+----------------
+After some research, I've decided to go with Inform7 instead of Tale.  This will make it a lot easier to generate the code than it'd be to generate a python program.  Inform also has a lot more capabilities than Tale.
+
+Here's what my plans are for final deployment:
+User goes on website -> Python server automatically writes Inform code based on templates -> Server executes code to compile Inform code, and save it as a web interface -> User is redirected to the web interface -> User plays game, maybe with an option to save progress/download game.
+
+I'll also add settings for how many rooms are in the game.  I'll divide rooms up into __sections__.  Each section will have about 10 interacting rooms, and one overarching goal needed to 'escape' from the section.  This will make it easier for the player to hold all of the story in short term memory.  It will also provide organization and structure for the story.
+
 Original Goal:
 -------------
 
