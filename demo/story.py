@@ -15,13 +15,13 @@ from tale.main import run_story
 
 
 class Story(Storybase):
-    name = "Tale demo story"
-    author = "Irmen de Jong"
-    author_address = "irmen@razorvine.net"
+    name = "My First TALE"
+    author = "Matthew D"
+    author_address = "matthew.dangerfield@yandex.com"
     version = tale.__version__
     supported_modes = {"if", "mud"}
-    player_name = "julie"
-    player_gender = "f"
+    player_name = "matt"
+    player_gender = "m"
     player_race = "human"
     player_money = 15.5
     money_type = "modern"
