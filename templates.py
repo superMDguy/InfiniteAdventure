@@ -1,14 +1,34 @@
-import pycorpora
 from random import choice
+from nltk.corpus import wordnet as wn
+
+def form(syn):
+	hyps = []
+	for hyp in wn.synset(syn).hyponyms():
+		for name in hyp.lemma_names():
+			hyps.append(name.replace('_', ' '))
+		for hyp2 in hyp.hyponyms():
+			for name in hyp.lemma_names():
+				hyps.append(name.replace('_', ' '))
+	return choice(hyps)
+
+def similar(word):
+	sims = []
+	for ss in wn.synsets(word):
+		for sim in ss.similar_tos():
+			for lemma in sim.lemma_names():
+				sims.append(lemma.replace('_', ' '))
+		for ss2 in wn.synsets(ss.name()):
+			for sim2 in ss2.similar_tos():
+				for lemma in sim2.lemma_names():
+					sims.append(lemma.replace('_', ' '))
+
+	return choice(sims)
 
 def randomBuilding():
 	directions = ['Up ahead', 'In front of you', 'A few steps away', 'Far off']
-	adjectives = ['an old', 'a run-down', 'a new', 'a beautiful', 'an interesting', 'an abandoned', 'a sad-looking', 'eery', 'a strangely unnerving', 'an inviting', 'a strange', 'a mysterious']
-	colors_pre = ['light ', 'dark ', 'fading ', 'ugly ', 'soft ', '', '', '']
-	colors = ['red', 'orange', 'yellow', 'green', 'blue', 'brown', 'white', 'black', 'gray']
-	buildings = ['house', 'warehouse', 'shed', 'bungalow', 'townhouse', 'hut', 'dwelling']
 	phrases = ["You feel like you should check it out.", "You wonder what's inside.", "You consider going in.", "You feel drawn to go inside it."]
-	
-	return "{0}, you see {1} {2}{3} {4}.  {5}".format(choice(directions), choice(adjectives), choice(colors_pre), choice(colors), choice(buildings), choice(phrases))
+	return "{0}, you see a(n) {1} {2} {3}.  {4}".format(choice(directions), similar('interesting'), similar('chromatic'), form('dwelling.n.01'), choice(phrases))
+
 
 print(randomBuilding())
+print(similar('interesting'))
