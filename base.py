@@ -4,9 +4,9 @@ class item:
 		self.desc = desc
 
 	def __str__(self):
-		return "A {0} is here.  \"{1}\".".format(self.name, self.desc)
+		return "A {0} is here.  \"{1}\".  ".format(self.name, self.desc)
 class room:
-	def __init__(self, name, desc, items, generator=None, relations = {}):
+	def __init__(self, name, desc, items, generator, relations = {}):
 		self.name = name
 		self.desc = desc
 		self.items = items
@@ -14,12 +14,12 @@ class room:
 		self.relations = relations
 
 	def __str__(self):
-		out = "The {0} is a room.  \"{1}\".".format(self.name, self.desc)
+		out = "{0} is a room.  \"{1}\".  ".format(self.name, self.desc)
 		for item in self.items:
 			out += "\n" + str(item) + "\n"
-
+		out+="\n\n"
 		for direction, otherRoom in self.relations.items():
-			out += "{0} of {1} is {2}.".format(direction, self.name, otherRoom.name)
+			out += "{0} from {1} is {2}.  ".format(direction, self.name, otherRoom.name)
 		return out
 
 	def addRelation(self, direction, otherRoom):
@@ -37,9 +37,9 @@ class game:
 	def __str__(self):
 		out = "\"{0}\" by {1} \n\n".format(self.name, self.author)
 		for room in self.rooms:
-			out += str(room) + "\n"
+			out += str(room) + "\n\n"
 		return out
 
 	def save(self):
-		f = open((self.name+".inform"), 'w')
+		f = open((self.name.replace(" ", "_")+".inform"), 'w')
 		f.write(str(self))
