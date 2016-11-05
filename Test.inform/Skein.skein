@@ -1,0 +1,641 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1002">
+    <generator>Inform Mac Client (Inform version 1.64/6.33/6M62)</generator>
+    <item nodeId="node-1002">
+        <command xml:space="preserve">Test</command>
+        <result xml:space="preserve">
+
+
+Test cave game
+An Interactive Fiction by superMDguy
+Release 1 / Serial number 161104 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Random tunnel2
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1005"></child>
+        </children>
+    </item>
+    <item nodeId="node-1005">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+Random cave chamber31
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1006"></child>
+        </children>
+    </item>
+    <item nodeId="node-1006">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Random tunnel6
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1007"></child>
+        </children>
+    </item>
+    <item nodeId="node-1007">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1008"></child>
+        </children>
+    </item>
+    <item nodeId="node-1008">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1009"></child>
+        </children>
+    </item>
+    <item nodeId="node-1009">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1010"></child>
+        </children>
+    </item>
+    <item nodeId="node-1010">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1011"></child>
+        </children>
+    </item>
+    <item nodeId="node-1011">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1012"></child>
+        </children>
+    </item>
+    <item nodeId="node-1012">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1013"></child>
+        </children>
+    </item>
+    <item nodeId="node-1013">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1014"></child>
+        </children>
+    </item>
+    <item nodeId="node-1014">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1015"></child>
+        </children>
+    </item>
+    <item nodeId="node-1015">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1016"></child>
+        </children>
+    </item>
+    <item nodeId="node-1016">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1017"></child>
+        </children>
+    </item>
+    <item nodeId="node-1017">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1018"></child>
+        </children>
+    </item>
+    <item nodeId="node-1018">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1019"></child>
+        </children>
+    </item>
+    <item nodeId="node-1019">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1020"></child>
+        </children>
+    </item>
+    <item nodeId="node-1020">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Random tunnel6
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1021"></child>
+        </children>
+    </item>
+    <item nodeId="node-1021">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Random tunnel6
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1022"></child>
+        </children>
+    </item>
+    <item nodeId="node-1022">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1023"></child>
+        </children>
+    </item>
+    <item nodeId="node-1023">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Random tunnel6
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1024"></child>
+        </children>
+    </item>
+    <item nodeId="node-1024">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Random tunnel6
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1025"></child>
+        </children>
+    </item>
+    <item nodeId="node-1025">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Random tunnel6
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1026"></child>
+        </children>
+    </item>
+    <item nodeId="node-1026">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Random tunnel6
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1027"></child>
+        </children>
+    </item>
+    <item nodeId="node-1027">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Random cave chamber31
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1028"></child>
+        </children>
+    </item>
+    <item nodeId="node-1028">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Random cave chamber31
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1029"></child>
+        </children>
+    </item>
+    <item nodeId="node-1029">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Random cave chamber31
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1030"></child>
+        </children>
+    </item>
+    <item nodeId="node-1030">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Random cave chamber31
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1031"></child>
+        </children>
+    </item>
+    <item nodeId="node-1031">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1032"></child>
+        </children>
+    </item>
+    <item nodeId="node-1032">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1033"></child>
+        </children>
+    </item>
+    <item nodeId="node-1033">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1034"></child>
+        </children>
+    </item>
+    <item nodeId="node-1034">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1035"></child>
+        </children>
+    </item>
+    <item nodeId="node-1035">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1036"></child>
+        </children>
+    </item>
+    <item nodeId="node-1036">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1037"></child>
+        </children>
+    </item>
+    <item nodeId="node-1037">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1038"></child>
+        </children>
+    </item>
+    <item nodeId="node-1038">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1039"></child>
+        </children>
+    </item>
+    <item nodeId="node-1039">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1040"></child>
+        </children>
+    </item>
+    <item nodeId="node-1040">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1041"></child>
+        </children>
+    </item>
+    <item nodeId="node-1041">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1042"></child>
+        </children>
+    </item>
+    <item nodeId="node-1042">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1043"></child>
+        </children>
+    </item>
+    <item nodeId="node-1043">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1044"></child>
+        </children>
+    </item>
+    <item nodeId="node-1044">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1045"></child>
+        </children>
+    </item>
+    <item nodeId="node-1045">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Random cave chamber21
+You are in a dim room.  You see a huge vaulted ceiling above you.  It's beautiful.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1046"></child>
+        </children>
+    </item>
+    <item nodeId="node-1046">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Random tunnel26
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1047"></child>
+        </children>
+    </item>
+    <item nodeId="node-1047">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Random tunnel26
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1048"></child>
+        </children>
+    </item>
+    <item nodeId="node-1048">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Random tunnel26
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1049"></child>
+        </children>
+    </item>
+    <item nodeId="node-1049">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Random tunnel26
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1050"></child>
+        </children>
+    </item>
+    <item nodeId="node-1050">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Random tunnel26
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1051"></child>
+        </children>
+    </item>
+    <item nodeId="node-1051">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Random tunnel26
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1052"></child>
+        </children>
+    </item>
+    <item nodeId="node-1052">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Random tunnel26
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1053"></child>
+        </children>
+    </item>
+    <item nodeId="node-1053">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Random tunnel16
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1054"></child>
+        </children>
+    </item>
+    <item nodeId="node-1054">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Random tunnel16
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1055"></child>
+        </children>
+    </item>
+    <item nodeId="node-1055">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Random tunnel16
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1056"></child>
+        </children>
+    </item>
+    <item nodeId="node-1056">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Random tunnel16
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1057"></child>
+        </children>
+    </item>
+    <item nodeId="node-1057">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Random tunnel16
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1058"></child>
+        </children>
+    </item>
+    <item nodeId="node-1058">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Random tunnel16
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1059"></child>
+        </children>
+    </item>
+    <item nodeId="node-1059">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Random tunnel16
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1060"></child>
+        </children>
+    </item>
+    <item nodeId="node-1060">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Random tunnel16
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1061"></child>
+        </children>
+    </item>
+    <item nodeId="node-1061">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Random tunnel16
+You are in a dim tunnel.  Stalactites protrude from the walls.  The ground has gravel on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

@@ -1,0 +1,1575 @@
+If you enter from the east or west East Viewing Room, you will be transported to Viewing Room. If you enter from the south (e.g., the Chairman's Office) you will be transported to the Small Room.
+You can leave the Small Room by walking through the south wall (thus entering the Depository from the North). 
+If you enter the Depository from the north, you will be transported to the Vault.
+You must win the main game (get all possible points).
+Wait around until you see a sinister wraithlike figure
+Then enter the crypt, close the door, turn off your lamp, and wait
+Have you read the newspaper?
+Have you availed yourself of ALL opportunities for intellectual improvement?
+Try reading the matchbook.
+Type 'SEND FOR FREE BROCHURE'
+How can you think of your score in your condition?
+Even such a simple action is beyond your capabilities
+Even such a simple action is beyond your capabilities
+Even such a simple action is beyond your capabilities
+Even such a simple action is beyond your capabilities
+Even such a simple action is beyond your capabilities
+Even such a simple action is beyond your capabilities
+Even such a simple action is beyond your capabilities
+Even such a simple action is beyond your capabilities
+Even such a simple action is beyond your capabilities
+No one hears you.
+You need no light to guide you.
+Your hand passes through the object.
+You are empty handed.
+You can't do even that.
+Normally, I would attempt to rectify your condition, but I'm ashamed
+to say my abilities are not equal to dealing with your present state
+of disrepair.  Please let me express my profoundest regrets.
+You clearly are a suicidal maniac.  We don't allow psychotics in the
+dungeon, since they may harm other adventurers.  Your remains will be
+installed in the Land of the Living Dead, where your fellow adventurers
+may gloat over them.
+Shall I patch you up? 
+Now, let me see...[line break]Well, we weren't quite able to restore your state.  You can't have everything.
+What?  You don't trust me?  Why, only last week I patched a running
+ITS and it survived for over 30 seconds.  Oh, well.
+As you take your last breath, you feel relieved of your burdens.  The feeling passes as you find yourself before the gates of Hell, where the spirits jeer at you and deny you entry.  Your senses are disturbed.  The objects in the dungeon appear indistinct, bleached of color, even
+unreal.
+diagnose
+You are dead as a doornail.
+You are in perfect health.  You are strong enough to take several wounds.
+You have a light wound, which will be cured in [cure wait of the player] turn[s].  You can survive one serious wound.
+You have a serious wound, which will be cured in [cure wait of the player] turn[s].  You can be killed by a serious wound.
+You have a several wounds, which will be cured in [cure wait of the player] turn[s].  You can be killed by one more light wound.
+You have a serious wounds, which will be cured in [cure wait of the player] turn[s].  You are at death's door.
+You have been killed once.
+You have been killed twice.
+burn [something] with/using [something]
+light [something] with/using [something]
+It's not clear what you want to burn [the noun] with.
+It's not clear what you want to burn [the noun] with.
+The match is already lit.
+I'm afraid you have run out of matches.
+One of the matches starts to burn.
+The match is out.
+The flame is extinguished.
+You burn your hand as you attempt to extinguish the flame.
+How do you expect to burn anything with that?
+A booming voice says 'Wrong, cretin!' and you notice that you have turned into a pile of dust.
+The barrel is damp and cannot be burned.
+[The noun] is already burning.
+I don't think you can burn [a noun].
+Now you've done it.  It seems that the brick has other properties
+than weight, namely the ability to blow you to smithereens.
+You realize, just in time, that the candles are already lighted.
+There's not much left of the candles; definately not enough left to light.
+The heat from the torch is so intense that the candles are vaporized.
+The candles are now lighted.
+The flames flicker wildly and appear to dance.  The earth beneath
+your feet trembles, and your legs nearly buckle beneath you.
+The spirits cower at your unearthly power.
+The tension of this ceremony is broken, and the wraiths, amused but
+shaken at your clumsy attempt, resume their hideous jeering.
+[The noun] burns inside the receptacle.
+The sight of someone carrying a pile of burning leaves so offends the neighbors that  they come over and put you out.
+The leaves burn and the neighbors start to complain.
+The wire rapidly burns to nothingness.
+The wire starts to burn.
+Nothing like having money to burn!
+[The noun] catches fire and is consumed.  Unfortunately, you were holding it at the time.
+[The noun] catches fire and is consumed.
+I hope you have more light than from a pair of candles.
+The candles grow shorter.
+knock [something]
+knock on [something]
+rap on [something]
+rap [something]
+Why knock on [a noun]?
+I don't think anyone is home.
+The knock reverberates along the hall.  For a time it seems there
+will be no answer.  Then you hear someone unlatching the small wooden
+panel.  Through the bars of the great door, the wrinkled face of an
+old man appears.  He gazes down at you and intones as follows:[paragraph break]
+[5 spaces] 'I am the Master of the dungeon, whose task it is to insure
+that none but the most scholarly and masterful adventurers are 
+admitted into the secret realms of the dungeon.  To ascertain whether 
+you meet the stringent requirements laid down by the Great
+Implementers, I will ask three questions which should be easy for
+one of your reputed excellence to answer.  You have undoubtedly
+discovered the answers during your travels through the dungeon.
+Should you answer each of these questions correctly within five
+attempts, then I am obliged to acknowledge your skill and daring and
+admit you to these regions.'[paragraph break]
+All answers should be in the form [']ANSWER 'answer'['].
+spin [something] to [a number]
+turn [something] to [a number]
+You can't do that to [the noun].
+The dial only goes from 1 to 8.
+The dial only goes from 1 to 8.
+The dial now points to [the number understood].
+You are in an open field on the west side of a white house with a boarded front door.
+box
+mail box
+mail-box
+[leaflet text]
+Welcome to Zork!
+   Zork is a game of adventure, danger, and low cunning.  In it you will explore some of the most amazing territory ever seen by mortal man.  Hardened adventurers have run screaming from the terrors contained within.[paragraph break]
+   In Zork, the intrepid explorer delves into the forgotten secrets of a lost labyrinth deep in the bowels of the earth, searching for vast treasures long hidden from prying eyes, treasures guarded by fearsome monsters and diabolical traps![paragraph break]
+   No system should be without one![paragraph break]
+No PDP-10 should be without one
+   Zork was created at the MIT Laboratory for Computer Science by
+Tim Anderson, Marc Blank, Bruce Daniels, and Dave Lebling.  It was inspired by the Adventure game of Crowther and Woods, and the long tradition of fantasy and science fiction games.[paragraph break]
+   On-line information may be obtained with the command HELP (synonyms are ABOUT, INFO, HINT, etc.).
+A rubber mat saying 'Welcome to Zork' lies by the door.
+The mat says 'Welcome to Zork'.
+As the mat is moved, [a thingy] falls from it and onto the floor.
+You are facing the north side of a white house.  There is no door here, and all the windows are barred.
+You are facing the south side of a white house.  There is no door here, and all the windows are barred.
+You are behind the white house.  In one corner of the house is a window that is [if the window is closed]slightly ajar. [otherwise]open.
+The house is a beautiful colonial house which is painted white.  It is clear that the owners must have been extremely wealthy.
+The door is locked, and there is evidently no key.
+The door is locked, and there is evidently no key.
+The door cannot be opened.
+It doesn't seem to work.
+With great effort, you open the window far enough to allow entry.
+The window closes (more easily than it opened).
+This is the kitchen of the white house.  A table seems to have been used recently for the preparation of food.  A passage leads to the west, and a dark staircase can be seen leading upward.  A dark chimney leads down and to the east is a small window which is [if the window is open]open. [otherwise]closed.
+On the table is an enlongated brown sack, smelling of hot peppers.
+Thank you very much.  That reallly hit the spot.
+Sitting on the table is a small bottle.
+A brilliant maneuver destroys the bottle.
+throw
+The bottle hits the far wall and shatters.
+bottle of [something related by containment]
+This is the living room.  There is a door to the east. [if the wooden door is closed] To the west, there is a wooden door with strange gothic lettering, which appears to be nailed shut. [otherwise] To the west, there is a wooden door with strange gothic lettering and a cyclops-sized hole in it.
+The engravings translate to 'This space intentionally left blank.' [if the door is open]The door has a cyclops-sized hole in it.
+In center of the room is [if the trap door is not revealed]a large oriental rug.[otherwise][status of the trap door] trap door.
+carpet
+The trophy case is securely fastened to the wall (perhaps to foil any attempt by robbers to remove it).
+On hooks above the mantelpiece hangs an elvish sword of great antiquity.
+glamdring
+orcrist
+lamp
+A battery powered brass lantern is on the trophy case.
+lantern
+brass
+The lamp smashes into the ground and is ruined.
+throw
+The lamp smashes into the ground and is ruined.
+The lamp is broken.  Some idiot must have smashed it.
+There is an issue of US NEWS & DUNGEON REPORT here.
+ [masthead]This is the Inform 7 version of Dungeon (Zork).  For more information on Inform 7, see <http://inform-fiction.org>.  Please report all bugs to Dean Menezes <samanddeanus@yahoo.com>.
+
+Lots and lots and lots and LOTS of bugs have been fixed.
+
+Aspiring adventurers should avail themselves of every opportunity to broaden their intellectual horizons and increase their perspicacity.
+
+Fatal events have somewhat more convoluted results than previously.
+US NEWS AND DUNGEON REPORT
+2007[12 spaces]Late Dungeon Edition
+news
+report
+paper
+Forest
+This is a dimly lit forest, with large trees all around.  One particularly large tree with some low branches stands here.
+You hear in the distance the chirping of a song bird.
+You are about ten feet above the ground nestled among some large branches. The nearest branch above you is beyond your reach.
+On the branch is a small birds nest.  
+In the bird's nest is a large egg encrusted with precious jewels, apparently scavenged somewhere by a childless songbird.  The egg is covered with fine gold inlay and ornamented in lapis lazuli and mother-of-pearl.  Unlike most eggs, this one is hinged and has a delicate looking clasp holding it closed. The egg appears extremely fragile.
+The egg is covered with fine gold inlay and ornamented in lapis lazuli and mother-of-pearl.  Unlike most eggs, this one is hinged and has a delicate looking clasp holding it closed. The egg appears extremely fragile.
+whole
+[The noun] falls to the ground.
+The jewel-encrusted egg falls to the ground and is ruined.
+The jewel-encrusted egg falls to the ground and is ruined.
+throw
+Your rather indelicate handling of the egg has caused it some damage.[line break]The egg is now open.
+There is a golden clockwork canary nestled in the egg.  It seems to have recently had a bad experience.  The mountings for its jewel-like eyes are empty, and its silver beak is crumpled.  Through a cracked crystal window below its left wing you can see the remains of intricate machinery.  It is not clear what result winding it would have, as the mainspring appears sprung.
+There is an unpleasant grinding noise from inside the canary.
+There is a golden clockwork canary nestled in the egg.  It seems to have recently had a bad experience.  The mountings for its jewel-like eyes are empty, and its silver beak is crumpled.  Through a cracked crystal window below its left wing you can see the remains of intricate machinery.  It is not clear what result winding it would have, as the mainspring appears sprung.
+This is a golden clockwork canary.  It has ruby eyes and a silver beak.  Through a crystal window below its left wing you can see intricate machinery inside.  It appears to have wound down.
+The canary chirps, slightly off key, an aria from a forgotten opera.
+From out of the greenery flies a lovely song bird.  It perches on a
+limb just over your head and opens its beak to sing.  As it does so,
+a beautiful brass bauble drops from its mouth, bounces off the top
+of your head, and lands glimmering in the grass.  As the canary winds
+down, the song bird flies away.
+The canary chirps blithely, if somewhat tinnily, for a short time.
+This is a dimly lit forest, with large trees all around.  To the east, there appears to be sunlight.
+Forest
+Forest
+This is a large forest, with trees obstructing all views except to the east, where a small clearing may be seen through the trees.
+This is a forest with trees in all directions around you.
+Forest
+Forest
+This is a forest with trees in all directions around you.
+This is a clearing, with a forest surrounding you on the west and south.
+There is a pile of leaves on the ground.
+Moving the pile of leaves reveals a grating.
+This is the Attic.  The only exit is stairs that lead down.
+A large coil of rope is in the corner.
+There is a square brick here which feels like clay.
+On a table is a nasty-looking knife.
+nasty knife
+[if the trap door is open]an open[otherwise]a closed
+trapdoor
+trap-door
+The door reluctantly opens to reveal a rickety staircase descending into darkness.
+The door swings shut and closes.
+The trap door crashes shut, and you hear someone barring it.
+The trap door is locked from above.
+There's a trap door under the rug.
+The trap door is closed.
+The rug is too heavy to lift.
+With a great effort, the rug is moved to one side of the room. With the rug moved, the dusty cover of a closed trap door appears.
+Having moved the carpet previously, you find it impossible to move it again.
+You are at the top of the Great Canyon on its south wall.  From here there is a marvelous view of the Canyon and parts of the Frigid River
+upstream.  Across the canyon, the walls of the White Cliffs still
+appear to loom far above.  Following the Canyon upstream (north and
+northwest), Aragain Falls may be seen, complete with rainbow. 
+Fortunately, my vision is better than average and I can discern the
+top of the Flood Control Dam #3 far to the distant north.  To the
+west and south can be seen an immense forest, stretching for miles
+around.  It is possible to climb down into the canyon from here.
+You are on a ledge about halfway up the wall of the river canyon.
+You can see from here that the main flow from Aragain Falls twists
+along a passage which it is impossible to enter.  Below you is the
+canyon bottom.  Above you is more cliff, which still appears
+climbable.
+You are beneath the walls of the river canyon which may be climbable
+here.  There is a small stream here, which is the lesser part of the
+runoff of Aragain Falls. To the north is a narrow path.
+You are on a small, rocky beach on the continuation of the Frigid River past the Falls.  The beach is narrow due to the presence of the White Cliffs.  The river canyon opens here and sunlight shines in from above. A rainbow crosses over the falls to the west and a narrow path continues to the southeast.
+You are in a dark and damp cellar with a narrow passageway leading east, and a crawlway to the south.  On the west is the bottom of a steep metal ramp which is unclimbable.
+You attempt to climb the ramp, but it is too slippery, and you slide back down.
+This is a small room with passages off in all directions. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+[if the troll is consious]A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the room.[otherwise]There is an unconsious troll here.[end if]
+The troll fends you off with a menacing gesture.
+The troll, who is remarkably coordinated, catches [the noun] 
+and being for the moment sated, throws it back.  Fortunately, the troll has poor control, and the knife falls on the floor.  He does not look pleased.
+and not having the most discriminating tastes, gleefully eats it.
+The unconscious troll cannot defend himself:  He dies.
+Almost as soon as the troll breathes his last breath, a cloud
+of sinister black fog envelops him, and when the fog lifts, the
+carcass has disappeared.
+You are on the west edge of a chasm, the bottom of which cannot be seen. The east side is sheer rock, providing no exits. A narrow passage goes west.  The path you are on continues to the north and south.
+The chasm probably leads directly to the infernal regions.
+This is an art gallery. Most of the paintings which were here have been stolen by vandals with exceptional taste. The vandals left through the north, south, or west exits.
+Fortunately, there is still one chance for you to be a vandal, for on the far wall is a work of unparalleled beauty.
+masterpiece by a neglected genius
+a painting
+masterpiece
+Congratulations!  Unlike the other vandals, who merely stole the
+artist's masterpieces, you have destroyed one.
+Congratulations!  Unlike the other vandals, who merely stole the
+artist's masterpieces, you have destroyed one.
+[one of]The troll swings his axe, but it misses.[or]The troll's axe barely misses your ear.[or]The axe sweeps past as you jump aside.[or]The axe crashes against the rock, throwing sparks![at random]
+The troll's axe removes your head.
+[one of]The troll hits you with a glancing blow, and you are momentarily
+stunned.[or]An axe stroke makes a deep wound in your leg.[or]The troll's axe swings down, gashing your shoulder.[at random]
+[one of]You stagger back under a hail of axe strokes.[or]The troll's mighty blow drops you to your knees.[or]The troll swings; the blade turns on your armor but crashes
+broadside into your head.[at random]
+[one of]Your sword crashes down, knocking the troll into dreamland.[or]The troll is battered into unconsciousness.[or] A furious exchange, and the troll is knocked out![at random]
+[one of]The haft of your knife knocks out the troll.[or]The troll drops to the floor, unconscious.[or]The troll is knocked out![at random]
+[one of]The troll receives a deep gash in his side.[or]A savage blow on the thigh!  The troll is stunned but can still fight![or]Slash!  Your blow lands!  That one hit an artery, it could be serious![at random]
+[one of]The troll receives a deep gash in his side.[or]A savage cut on the leg stuns the troll, but he can still fight![or]Slash!  Your stroke connects!  The troll could be in serious trouble![at random]
+A good stroke, but it's too slow, the troll dodges.
+The troll takes a final blow and slumps to the floor, dead.
+Almost as soon as the troll breathes his last breath, a cloud
+of sinister black fog envelops him, and when the fog lifts, the
+carcass has disappeared.
+This is what appears to have been an artist's studio. The walls and floors are splattered with paints of 69 different colors. Strangely enough, nothing of value is hanging here. At the north and northwest of the room are open doors (also covered with paint). An extremely dark and narrow chimney leads up from a fireplace. Although you might be able to get up the chimney, it seems unlikely that you could get back down.
+The chimney is too narrow for you and your baggage.
+Only Santa Claus climbs down chimneys.
+Going up empty-handed is a bad idea.
+This is the large entrance hall of the Bank of Zork, the largest banking institution of the Great Underground Empire. A partial account of its history is in 'The Lives of the Twelve Flatheads' with the chapter on J. Pierpont Flathead. A more detailed history (albeit less objective) may be found in Flathead's outrageous autobiography 'I'm Rich and You Aren't -- So There!'
+Most of the furniture has been ravaged by passing scavengers. All that
+remains are two signs at the northwest and northeast corners of the room, which say
+[paragraph break]
+[fixed letter spacing]
+    <-- WEST VIEWING ROOM    EAST VIEWING ROOM -->
+[variable letter spacing]
+This is a small square room, which was used by a bank officer whose job it was to retrieve safety deposit boxes for the customer. On the north side of the room is a sign which reads 'Viewing Room'. On the west side of the room, above an open door, is a sign reading [paragraph break]
+[fixed letter spacing]
+            BANK PERSONNEL ONLY [variable letter spacing]
+This is a small square room, which was used by a bank officer whose job it was to retrieve safety deposit boxes for the customer. On the north side of the room is a sign which reads 'Viewing Room'. On the east side of the room, above an open door, is a sign reading [paragraph break]
+[fixed letter spacing]
+            BANK PERSONNEL ONLY [variable letter spacing]
+This is a room used by holders of safety deposit boxes to view their contents. On the north side of the room is a sign which says [paragraph break][sign text]
+REMAIN HERE WHILE THE BANK OFFICER RETRIEVES YOUR DEPOSIT BOX
+WHEN YOU ARE FINISHED, LEAVE THE BOX, AND EXIT TO THE SOUTH
+AN ADVANCED PROTECTIVE DEVICE PREVENTS ALL CUSTOMERS FROM
+REMOVING ANY SAFETY DEPOSIT BOX FROM THIS VIEWING AREA!
+Thank you for banking at the Zork!
+This is a large rectangular room. The east and west walls here were used for storing safety deposit boxes. As might be expected, all have been carefully removed by evil persons. The northern 'wall' of the room is a shimmering curtain of light. To the east, west, and south of the room are large doorways.
+In the center of the room is a large stone cube, about 10 feet on a side. Engraved on the side of the cube is some lettering.
+vault
+This room was the office of the Chairman of the Bank of Zork. Like the other rooms here, it has been extensively vandalized. The lone exit is to the north.
+A portrait of J. Pierpont Flathead hangs on the wall.
+painting
+portrait of J. Pierpont Flathead
+[flathead]
+north
+wall
+This is a small bare room with no distinguishing features. There are no exits from this room.
+This is the Vault of the Bank of Zork, in which there are no doors.
+On the floor sit 200 neatly stacked zorkmid bills.
+notes
+banknotes
+bank notes
+[banknotes]
+The alarm sounds briefly, and an invisible force prevents your from leaving.
+The alarm sounds briefly, and an invisible force prevents your from leaving.
+The alarm sounds briefly, and an invisible force prevents your from leaving.
+The alarm sounds briefly, and an invisible force prevents your from leaving.
+As you attempt this feat, your hand goes through the curtain.
+You feel somewhat disoriented as you pass through.
+NORTH WALL
+NORTHERN WALL
+This is an epicene Gnome of Zurich, wearing a three-piece suit and carrying a safety deposit box.
+The gnome carefully places the [noun] in the deposit box.  'Let me show you the way out,' he says, making it clear that he will be pleased to see the last of you. Then, you are momentarily disoriented, and when you recover, you are back at the Bank Entrance.
+'I wouldn't put THAT in a safety deposit box,' remarks the gnome with disdain, tossing it over his shoulder, where it disappears with an understated 'pop'.
+The gnome says, 'Well, I never!' and disappears with a snap of his fingers, leaving you alone.
+The gnome says, 'Well, I never!' and disappears with a snap of his fingers, leaving you alone.
+The curtain dims slightly as the [noun] passes through it.
+You feel somewhat disoriented as you pass through.
+southern wall
+You feel somewhat disoriented as you pass through.
+Your way is blocked by debris from an explosion.
+The [noun] goes through.
+The [noun] goes through.
+NORTHERN WALL
+As you attempt this feat, your hand goes through the wall.
+As you attempt this feat, your hand goes through the wall.
+This is a north-south crawlway; a passage also goes to the east. There is a hole above, but it provides no opportunities for climbing.
+Not even a human fly could get up it.
+Maze
+This is part of a maze of twisty little passages, all alike.
+Dead End
+A skeleton, probably the remains of a luckless adventurer, is here.
+An old leather bag, bulging with coins is here.
+The deceased adventurer's useless lantern is here.
+useless
+lamp
+bag of coins
+set of skeleton keys
+skeleton keys
+Beside the skeleton is a rusty knife.
+As you pick up the rusty knife, your sword gives a single pulse of blinding blue light.
+As the knife approaches its victim, your mind is submerged by an overmastering will.  Slowly, your hand turns, until the rusty blade is an inch from your neck.  The knife seems to sing as it savagely cuts your throat.
+As the knife approaches its victim, your mind is submerged by an overmastering will.  Slowly, your hand turns, until the rusty blade is an inch from your neck.  The knife seems to sing as it savagely cuts your throat.
+A ghost appears in the room and is appalled by your desecration of the remains of a fellow adventurer.  He casts a curse on all of your valuables and orders them banished to the Land of the Living Dead.  The ghost leaves, muttering obscenities.
+The lantern is burned out.
+This is a small room near the maze.  There are twisty passages in the immediate vicinity. Above you is a [if the grating is open]open[end if]grating[if the grating is locked] locked with a skull-and-crossbones lock[end if][if the grating is open] with sunlight poring in[end if].
+grate
+This is a room with an exit on the west side, and a staircase leading up.
+[cyclops text].
+Polyphemus
+The cyclops seems somewhat agitated.
+The cyclops appears to be getting more agitated.
+The cyclops is moving about the room, looking for something.
+The cyclops was looking for salt and pepper.  I think he is gathering condiments for his upcoming snack.
+The cyclops is moving toward you in an unfriendly manner.
+You have two choices: 1. Leave 2. Become dinner.
+The cyclops, tired of all your games and trickery, eats you.[line break]The cyclops says, 'Mmm mmm!  Just like mom used to make 'em.'
+The Cyclops yawns and stars at the thing that woke him.
+The cyclops ignores all injuries to his body with a shrug.
+Your actions don't appear to be doing much harm to the cyclops, but
+they do not exactly lower your insurance premiums, either.
+stairs
+This is a large room, whose north wall is solid granite.  A number of discarded bags, which crumble at your touch, are scattered about on the floor.  There is an exit down and what appears to be a newly created passage to the east.
+shady/suspicious
+ROBBER/CROOK/CRIMINAL/BANDIT
+MODO/MAHU
+GENT/GENTLEMAN/MAN/INDIVIDUAL
+There is a suspicious-looking individual, holding a bag, leaning against one wall.  He is armed with a vicious-looking stiletto.
+The thief is taken aback by your unexpected generosity but accepts [the noun] and stops to admire its beauty.
+The unconsious thief cannot defend himself; he dies.
+Almost as soon as the hief breathes his last breath, a cloud
+of sinister black fog envelops him, and when the fog lifts, the
+carcass has disappeared.
+His booty remains:  [a list of valuble things carried by the thief]
+[one of]Your sword crashes down, knocking the thief into dreamland.[or]The thief is battered into unconsciousness.[or] A furious exchange, and the thief is knocked out![at random]
+[one of]The haft of your knife knocks out the thief.[or]The thief drops to the floor, unconscious.[or]The thief is knocked out![at random]
+[one of]The thief receives a deep gash in his side.[or]A savage blow on the thigh!  The thiefl is stunned but can still fight![or]Slash!  Your blow lands!  That one hit an artery, it could be serious![at random]
+[one of]The thief receives a deep gash in his side.[or]A savage cut on the leg stuns the thief, but he can still fight![or]Slash!  Your stroke connects!  The thief could be in serious trouble![at random]
+A good stroke, but it's too slow, the thief dodges.
+The thief takes a final blow and slumps to the floor, dead.
+Almost as soon as the thief breathes his last breath, a cloud
+of sinister black fog envelops him, and when the fog lifts, the
+carcass has disappeared.
+His booty remains:  [a list of valuble things carried by the thief]
+[one of]The thief stabs nonchalantly with his stiletto and misses.[or]You dodge as the thief comes in low.[or]You parry a lightning thrust, and the thief salutes you with
+a grim nod.[or]The thief tries to sneak past your guard, but you twist away.[at random]
+[one of]The stiletto severs your jugular.  It looks like the end.[or]The thief comes in from the side, feints, and inserts the blade
+into your ribs.[or]The thief bows formally, raises his stiletto, and with a wry grin,
+ends the battle and your life.[at random]
+[one of]A quick thrust pinks your left arm, and blood starts to
+trickle down.[or]The thief draws blood, raking his stiletto across your arm.[or]The stiletto flashes faster than you can follow, and blood wells
+from your leg.[at random]
+[one of]The butt of his stiletto cracks you on the skull, and you stagger
+back.[or]The thief attacks, and you fall back desperately.[or]The thief rams the haft of his blade into your stomach, leaving
+you out of breath.[at random]
+This is a small square room, in the middle of which is a recently created hole[if a block is in Puzzle10] which is blocked by smooth sandstone.[otherwise] through which you can barely discern the floor some ten feet below.[end if]  It doesn't seem likely you could climb back up.  There
+are exits to the west and south.
+paper
+piece of paper
+There is a piece of paper on the ground here.
+[note text]
+The paper is rather worn; although the writing is barely legible (the
+author probably had only a used pencil), it is a very elegant
+copperplate.[paragraph break]
+To Whom It May Concern:[paragraph break]
+[5 spaces]I regret to report that the rumours regarding treasure contained
+in the chamber to which this passage leads have no basis in fact.
+Should you nevertheless be sufficiently foolhardy to enter, it will
+be quite impossible for you to exit.[paragraph break]
+[32 spaces]Sincerely yours,[line break]
+[32 spaces]The Thief
+You are in a room with an exit to the north and a steel door to the east[if the steel door is open]which is open[end if].
+The wall does not budge.
+There is only a passage in that direction.
+The wall does not budge.
+The wall does not budge.
+The wall does not budge.
+The wall slides forward and you follow it to this position:
+Room in Puzzle
+[puzzle text]
+[if a block is in Puzzle11 and a block is in Puzzle18]You are in a small square room bounded to the north and west with
+marble walls and to the east and south with sandstone walls.[otherwise][puzzle text][end if]
+[6 spaces]|[txt of the room northwest from the location] [txt of the room north from the location] [txt of the room northeast from the location]|[line break]
+West[2 spaces]|[txt of the room west from the location] .. [txt of the room east from the location]|[2 spaces]East[line break]
+[6 spaces]|[txt of the room southwest from the location] [txt of the room south from the location] [txt of the room southeast from the location]|[line break]
+In the ceiling above you is a large circular opening.
+The center of the floor here is noticeably depressed.
+The west wall here has a large steel door [if the steel door is open]which is open [end if]at its center.  One one side of the door is a small slit.
+There is a ladder here, firmly attached to the east wall.
+There is a ladder here, firmly attached to the west wall.
+MM
+SS
+[2 spaces]
+With the help of the ladder, you exit the puzzle.
+The exit is too far above your head.
+Your way is blocked by sandstone.
+The card slides easily into the slot and vanishes and the metal door slides open revealing a passageway to the west.  A moment later, a previously unseen sign flashes:[line break] [4 spaces]'Unauthorized/Illegal Use of Pass Card -- Card Confiscated'
+The item vanishes into the slot.  A moment later, a previously unseen sign flashes 'Garbage In, Garbage Out' and spews [the noun] (now atomized) through the slot.
+Nestled inside the niche is an engraved gold card.
+There is a solid gold engraved card here.
+[card text]
+ ____________________________________________________________[line break]
+|                                                            |[line break]
+|              FROBOZZ MAGIC SECURITY SYSTEMS                |[line break]
+|    Door Pass                  Royal Zork Puzzle Museum     |[line break]
+|                                                            |[line break]
+|                     #632-988-496-XTHF                      |[line break]
+|                                                            |[line break]
+|                                                            |[line break]
+|     USE OF THIS PASS BY UNAUTHORIZED PERSONS OR AFTER      |[line break]
+|   EXPIRATION DATE WILL RESULT IN IMMEDIATE CONFISCATION    |[line break]
+|                                                            |[line break]
+|                                                            |[line break]
+|                              (approved)                    |[line break]
+|                              Will Weng                     |[line break]
+|                               789 G.U.E.                   |[line break]
+|                                                            |[line break]
+|                                        Expires 792 G.U.E.  |[line break]
+|____________________________________________________________|[line break]
+A cyclops, who looks prepared to eat horses (much less mere adventurers), blocks the staircase.  From his state of health
+and the bloodstains on the walls, you gather that he is not very friendly, though he likes people
+The cyclops is standing in the corner, eyeing you closely.  I don't think he likes you very much.  He looks extremely hungry, even for a cyclops
+The cyclops, having eaten the hot peppers, appears to be gasping. His inflamed tongue protrudes from his man-sized mouth
+The cyclops is sleeping blissfully at the foot of the stairs
+The north wall, previously solid, now has a cyclops-shaped hole in it
+[cyclops text].
+The cyclops, hearing the name of his father's deadly nemesis, flees the room by knocking down the wall on the north side of the room.
+I don't see any cylcops here.
+The cyclops does not take to kindly to being grabbed.
+The cyclops doesn't look like he'll let you pass.
+The cyclops may be hungry, but there is a limit.
+The cyclops is apparently not thirsty and refuses your generosity.
+The cyclops looks tired and quickly falls fast asleep (what did you put in that drink, anyway?).
+The cyclops is not so stupid as to eat that!
+The cyclops says, 'Mmm mmm!  I love hot peppers!  But oh, could I use a drink.  Perhaps I could drink the blood of that thing.' From the gleam in his eye, it could be surmised that you are 'that thing'.
+This is a long passage.  To the south is one entrance.  On the east there is an old wooden door with a large hole in it (about
+cyclops sized).
+This is a narrow east-west passageway.  There is a narrow stairway leading down at the north end of the room.
+This is a deep ravine at a crossing with an east-west crawlway.  Some stone steps are at the south of the ravine, and a steep staircase descends.
+[if the pdl1 is on-stage]This is a long room on the south shore of a large reservoir.[otherwise]You are in a long room, to the north of which was formerly a reservoir.[end if]  There is a western exit, a passageway south, and a steep pathway climbing up along the edge of a cliff.
+The stairs are to steep for you with your burden.
+This is a circular room with passages off in eight directions.
+Your compass needle spins wildly, and you cannot get your bearings.
+Unfortunately, it is impossible to tell directions in here.
+You are standing in a small circular room with a pedestal.  A set of stairs leads up, and passages leave to the east and west.
+There is an extremely valuable (perhaps original) grail here.
+holy grail
+This is a narrow crawlway.  The crawlway leads from north to south. However, the south passage divides to the south and southwest.
+This is the west end of a large temple.  On the south wall is an ancient inscription, probably a prayer in a long-forgotten language. The north wall is solid granite.  The entrance at the west end of the room is through huge marble pillars.
+prayer
+The prayer is inscribed in an ancient script which is hardly remembered these days, much less understood.  What little of it can be made out seems to be a diatribe against small insects, absent-mindedness, and the picking up and dropping of small objects.  The final verse seems to consign trespassers to the land of the dead.  All evidence indicates that the beliefs of the ancient Zorkers were obscure.
+This is the east end of a large temple.  In front of you is what appears to be an altar.
+On the two ends of the altar are burning candles.
+There are two candles here.
+On the altar is a large black book, open to page 569.
+bible
+good book
+goodbook
+[book text]
+               Commandment #12592[line break]
+Oh ye who go about saying unto each other: 'Hello sailor':[line break]
+Dost thou know the magnitude of thy sin before the gods?[line break]
+Yea, verily, thou shalt be ground between two stones.[line break]
+Shall the angry gods cast thy body into the whirlpool?[line break]
+Surely, thy eye shall be put out with a sharp stick![line break]
+Even unto the ends of the earth shalt thou wander and[line break]
+unto the land of the dead shalt thou be sent at last.[line break]
+Surely thou shalt repent of thy cunning.
+You have entered a cave with passages leading north and southeast.
+ There are old engravings on the walls here.
+The engravings were incised in the living rock of the cave wall by an unknown hand.  They depict, in symbolic form, the beliefs of the ancient peoples of Zork.  Skillfully interwoven with the bas reliefs are excerpts illustrating the major tenets expounded by the sacred texts of the religion of that time.  Unfortunately, a later age seems to have considered them blasphemous and just as skillfully excised them.
+[riddle text]
+This is a room which is bare on all sides.  There is an exit down. To the east is a great door made of stone.  Above the door, the following words are written: 'No man shall enter this room without solving this riddle--[paragraph break]
+       What is tall as a house,[line break]
+       Round as a cup,[line break]
+       And all the king's horses can't draw it up?'.[paragraph break]
+(Reply via [']ANSWER 'answer'['].)
+This is a former broom closet.  The exits are to the east and west.
+pearls
+There is a pearl necklace here with hundreds of large pearls.
+This is a pearl necklace with hundreds of large pearls.
+The door cannot be opened.
+This is a damp circular room, whose walls are made of brick and mortar.  The roof of this room is not visible, but there appear to be some etchings on the walls.  There is a passageway to the west.
+There is a wooden bucket here, three feet in diameter and three feet high.
+There is a wooden bucket here, three feet in diameter and three feet high.
+The bottle is closed.
+The bottle is now full of water.
+The bucket descends and comes to a stop.
+The bucket rises and comes to a stop.
+The bucket descends and comes to a stop.
+The walls cannot be climbed.
+You are at the top of the well.  Well done.  There are etchings on the side of the well.  There is a small crack across the floor at the entrance to a room on the east, but it can be crossed easily.
+Playing with the bucket in this manner doesn't seem to be accomplishing anything.
+[bucket text]
+               o  b  o[line break][line break]
+               A  G  I[line break]
+                E   L[line break][line break]
+               m  p  a[line break]
+                o  b  o[line break]
+            r             z[line break]
+         f   M  A  G  I  C    z[line break]
+         c    W  E   L  L     y[line break]
+            o             n[line break]
+                m  p  a[line break]
+It's a long way down.
+If you insist.
+This is a small square room, in the center of which is a large oblong table, no doubt set for afternoon tea.  It is clear from the objects on the table that the users were indeed mad.  In the eastern corner of this room is a small hole no more than four inches high.
+There is a piece of cake here with the words 'Eat-Me' on it.
+There is a piece of cake here with the words 'Eat-Me' on it.
+eatme cake
+eat me cake
+piece of cake with red icing
+piece of cake
+piece of cake with red icing
+piece of red cake
+piece of cake with orange icing
+piece of cake
+piece of cake with orange icing
+piece of orange cake
+piece of cake with orange icing
+piece of cake with blue (ecch) icing
+piece of cake
+piece of cake with blue icing
+piece of blue cake
+piece of cake with blue icing
+The only writing visible is a capital E.  The rest is too small to be clearly visible.
+The only writing visible is a capital E.  The rest is too small to be clearly visible.
+The only writing visible is a capital E.  The rest is too small to be clearly visible.
+cakes
+both cake
+You have been blasted to smithereens (whatever they are).
+The room around you seems to be getting smaller.[line break]The room seems to have become too small to hold you.  It seems that the walls are not as compressible as your body, which is more or less demolished.
+This is a room with a low ceiling which is circular in shape. There are exits to the east and southeast.
+robby
+r2-d2
+c-3po
+r2d2
+c3po
+[instruction text]
+!!!! FROBOZZ MAGIC ROBOT COMPANY !!!!
+Hello, master![paragraph break]
+    I am a late-model robot, trained at MIT Tech to perform various simple housekeeping functions.[paragraph break]
+Instructions for use:[paragraph break]
+    To activate me, use the following formula--[line break]
+        TELL ROBOT 'something to do' (cr)[line break]
+    The quotation marks are mandatory.[paragraph break]
+Warranty:[paragraph break]
+    No warranty is expressed or implied.[paragraph break]
+ At your service!
+The icing spells out Eat Me.
+That was delicious, but your dying memory is of feeling horribly dehydrated and thirsty.
+'I am sorry but that action is difficult for a being with no mouth.'
+The robot gladly takes [the noun] and nods his head-like appendage in thanks.
+tell robot
+robot,
+tell robby
+robot,
+tell r2-d2
+robot,
+tell r2d2
+robot,
+tell c-3po
+robot,
+tell c3po
+robot,
+The water slips through his fingers.
+The robot is injured (being of shoddy construction) and falls to the floor in a pile of garbage, which disintegrates before your eyes.
+The robot is injured (being of shoddy construction) and falls to the floor in a pile of garbage, which disintegrates before your eyes.
+throw
+You have been blasted to smithereens (whatever they are).
+You have been blasted to smithereens (whatever they are).
+'I am only a stupid robot and cannot perform that command.'
+'I am only a stupid robot and cannot perform that command.'
+'Whirr, buzz, click!'
+This is a large room full of assorted heavy machinery.  The room smells of burned resistors.  The room is noisy from the whirring sounds of the machines.  Along one wall of the room are three buttons which are, respectively, round, triangular, and square.  Naturally, above the buttons are instructions
+written in EBDIC.  A large sign above all the buttons says in English:[paragraph break][fixed letter spacing]
+DANGER: HIGH VOLTAGE[paragraph break][variable letter spacing]There are exits to the west and the south.
+buttons
+both button
+There is a giant spark, and you are fried to a crisp.
+A dull thump is heard in the distance.
+Click.
+Nothing seems to happen.
+The whirring increases in intensity slightly.
+Nothing seems to happen.
+The whirring decreases in intensity slightly.
+According to Prof. TAA of MIT Tech, the rapidly changing magnetic fields in the room are so intense as to cause you to be electrocuted.  I really don't know, but in any event, something just killed you.
+Your compass needle spins wildly, and you cannot get your bearings.
+Unfortunately, it is impossible to tell directions in here.
+According to Prof. TAA of MIT Tech, the rapidly changing magnetic fields in the room are so intense as to fry all the delicate innards of the robot.  I really don't know, but in any event, smoke is coming out of its ears, and it has stopped moving.
+stradivarius
+strad
+There is a Stradivarius here.
+Suddenly, the room appears to have become very large.
+Suddenly, the room appears to have become very small.
+This is an enormous room, in the center of which are four wooden posts delineating a rectangular area, above which is what appears to be a wooden roof.  In fact, all objects in this room appear to be abnormally large.  To the east is a passageway.  There is a large chasm on the west and the northwest.
+Only a mouse could get in there.
+There is a chasm too wide to jump across.
+There is a chasm too wide to jump across.
+This is a large room, one half of which is depressed.  [if the leak is in Pool Room]There is a large leak in the ceiling through which brown colored goop is falling.  The leak has submerged the depressed area in a pool of sewage.  [end if]The only exit from this room is to the west.
+The pool of water evaporates, revealing a tin of rare spices.
+throw
+pool
+pool of sewage
+pool of water
+A flask is filled with some clear liquid is here.
+Just before you pass out, you notice that the vapors from the
+flask's contents are fatal.
+throw
+This is a dingy closet adjacent to the machine room.  On one wall is a small sticker which reads:[sticker text]
+Protected by
+FROBOZZ
+Magic Alarm Company
+(Hello, footpad!)
+There is a beautiful white crystal sphere here.
+[white sphere text]
+You see only darkness.
+As you peer into the sphere, a strange vision takes shape of
+a distant room, which can be described clearly....[paragraph break]
+[description of the location of the blue crystal sphere][paragraph break]
+The vision fades, revealing only an ordinary crystal sphere.
+PALANTHIR
+STONE
+SEEING
+GLASS
+BALL
+As the robot reaches for the sphere, a steel cage falls from the
+ceiling.  The robot attempts to fend it off, but is trapped below it.
+Alas, the robot short-circuits in his vain attempt to escape, and
+crushes the sphere beneath him as he falls to the floor.
+As you reach for the sphere, a steel cage falls from the ceiling to entrap you.  To make matters worse, poisonous gas starts coming into the room.
+Time passes...and you die from some obscure poisoning.
+You are trapped inside a steel cage.
+Whirr, buzz, click![paragraph break]The robot is unable to do that.
+Whirr, buzz, click![paragraph break]The cage shakes and is hurled across the room.
+This is a crawlway with a three-foot high ceiling.  Your footing is very unsure here due to the assortment of rocks underfoot.  Passages can be seen in the east, west, and northwest corners of the passage.
+You are at the periphery of a large dome, which forms the ceiling of another room below.  Protecting you from a precipitous drop is a wooden railing which circles the dome.
+This is a large room with a prominent doorway leading to a down staircase. To the west is a narrow twisting tunnel, covered with a thin layer of dust.  Above you is a large dome painted with scenes depicting elfin hacking rites. Up around the edge of the dome (20 feet up) is a wooden railing. In the center of the room there is a white marble pedestal.
+The rope drops over the side and comes within ten feet of the floor.
+You cannot go down without breaking many bones.
+You cannot reach the rope.
+Sitting on the pedestal is a flaming torch, made of ivory.
+Hanging down from the railing is a rope which ends about ten feet from the floor below.
+There is [a coil] here[if the coil is attached to a visible nonrope thing], tied to [the list of nonrope visible things which are attached to the coil][end if].
+This is a tiny room, which has an exit to the east.
+On the [way through the massive wooden door] side of the room is a massive wooden door, near the top of which, in the center, is a window barred with iron.  A formidable bolt lock is set within the door frame.  A keyhole lies within the lock[if the keyhole is closed]covered by a thin metal lid lies within the lock.[otherwise].[end if]
+lid
+The lid falls to cover the keyhole.
+The lid opens.
+The keyhole is occupied.
+The keyhole is blocked.
+There is a faint noise from behind the door and a small cloud of
+dust rises from beneath it.
+This is a small and rather dreary room, which is eerily illuminated
+by a red glow emanating from a crack in one of the walls.  The light 
+appears to focus on a dusty wooden table in the center of the room.
+[blue sphere text]
+You see only darkness.
+As you peer into the sphere, a strange vision takes shape of
+a distant room, which can be described clearly....[paragraph break]
+[description of the location of the red crystal sphere][paragraph break]
+The vision fades, revealing only an ordinary crystal sphere.
+PALANTHIR
+STONE
+SEEING
+GLASS
+BALL
+BALLS/PALANTHIRI/PALANTHIRS/SPHERES
+BOTH SPHERE
+This is a room which looks like an Egyptian tomb.  There is an ascending staircase in the room as well as doors east and south.
+The solid-gold coffin used for the burial of Ramses II is here.
+The passage is too narrow to accomodate coffins.
+The passage is too narrow to accomodate coffins.
+The coffin will not fit through this passage.
+[agrippa text]
+There is a card with writing on it here.
+notecard
+note-card
+plain
+Warning:[line break]
+[4 spaces]This room was constructed over very weak rock strata.  Detonation of explosives in this room is strictly prohibited![line break]
+[24 spaces]Frobozz Magic Cave Company[line break]
+[24 spaces] per M. Agrippa, foreman[line break]
+The excessively gaudy crown of Lord Dimwit Flathead is here.
+You are on a ledge in the middle of a large volcano.  Below you the volcano bottom can be seen and above is the rim of the volcano. A couple of ledges can be seen on the other side of the volcano;
+it appears that this ledge is intermediate in elevation between those on the other side.  The exit from this room is to the east.
+I wouldn't try that.
+This is a large room with giant icicles hanging from the walls and ceiling.  There are passages to the north and east.
+glacier
+A mass of ice fills the western half of the room.[if the mass of ice is off-stage]  There is a large passageway leading westward.[end if]
+This is a small chamber behind the remains of the great glacier.  To the south and west are small passageways.
+This is a small room, whose walls are formed by an old lava flow.
+There are exits here to the west and the south.
+You are at the bottom of a large dormant volcano.  High above you
+light may be seen entering from the cone of the volcano.  The only
+exit here is to the north.
+There is a very large and extremely heavy wicker basket with a cloth bag here. Inside the basket is a metal receptacle of some kind. 
+Attached to the basket on the outside is a piece of wire.
+balloon
+basket
+wicker
+rope
+You are about one hundred feet above the bottom of the volcano.  The top of the volcano is clearly visible here.
+You are about two hundred feet above the volcano floor.  Looming
+above is the rim of the volcano.  There is a small ledge on the west
+side.
+You are high above the floor of the volcano.  From here the rim of
+the volcano looks very narrow and you are very near it.  To the 
+east is what appears to be a viewing ledge, too thin to land on.
+You are near the rim of the volcano which is only about 15 feet
+across.  To the west, there is a place to land on a wide ledge.
+Volcano Near Wide Ledge
+You are on a narrow ledge overlooking the inside of an old dormant volcano.  This ledge appears to be about in the middle between the floor below and the rim above. There is an exit here to the south.
+This is a room which must have been a large library, probably for the royal family.  All of the shelves appear to have been gnawed to pieces by unfriendly gnomes.  To the north is an exit.
+On the floor is a gold zorkmid coin (a valuable collector's item).
+There is an engraved zorkmid coin here.
+gold
+engraved
+coin
+[zorkmid text]
+               --------------------------[line break]
+              /      Gold Zorkmid        \\[line break]
+             /  T e n   T h o u s a n d   \\[line break]
+            /        Z O R K M I D S       \\[line break]
+           /                                \\[line break]
+          /        ||||||||||||||||||        \\[line break]
+         /        !||||          ||||!        \\[line break]
+        |          |||   ^^  ^^   |||          |[line break]
+        |          |||   OO  OO   |||          |[line break]
+        | In Frobs  |||    <<    |||  We Trust |[line break]
+        |            || (______) ||            |[line break]
+        |             |          |             |[line break]
+        |             |__________|             |[line break]
+         \\                                   /[line break]
+          \\    -- Lord Dimwit Flathead --    /[line break]
+           \\    -- Beloved of Zorkers --    /[line break]
+            \\                             /[line break]
+             \\      * 722 G.U.E. *       /[line break]
+              \\                         /[line break]
+               --------------------------[line break]
+There is a blue book here.
+This book is written in a tongue with which I am unfamiliar.
+There is a green book here.
+This book is written in a tongue with which I am unfamiliar.
+There is a white book here.
+This book is written in a tongue with which I am unfamiliar.
+There is a purple book here.
+This book is written in a tongue with which I am unfamiliar.
+[flathead text]
+---v----v----v----v----v----v----v----v---[line break]
+|                                        |[line break]
+|          ||||||||||        LORD        |[line break]
+>         !||||      |      DIMWIT       <[line break]
+|         ||||    ---|     FLATHEAD      |[line break]
+|         |||C     CC \\                 |[line break]
+>          ||||       _\\                <[line break]
+|           ||| (____|                   |[line break]
+|            ||      |                   |[line break]
+>             |______|       Our         <[line break]
+|               /   \\    Excessive      |[line break]
+|              /     \\     Leader       |[line break]
+>             |       |                  <[line break]
+|             |       |                  |[line break]
+|                                        |[line break]
+>    G.U.E. POSTAGE        3 Zorkmids    <[line break]
+|                                        |[line break]
+---^----^----^----^----^----^----^----^---[line break]
+You are on a wide ledge high into the volcano.  The rim of the volcano is about 200 feet above and there is a precipitous drop below to the bottom.  There is a small door to the south.
+You are in a dusty old room which is virtually featureless, except
+for an exit on the north side.
+[if closed]Embedded in the far wall, there is a rusty old box.  It appears that the box is somewhat damaged, since an oblong hole has been chipped out of the front of it.[otherwise]On the far wall is a rusty box, whose door has been blown off.[end if]
+On the floor lies a moby ruby.
+There is a moby ruby lying here.
+A mass of ice fills the western half of the room.
+The torch hits the glacier and explodes into a great ball of flame, devouring the glacier.  The water from the melting glacier rushes downstream, carrying the torch with it.  In place of the glacier, there is a passageway leading west.
+burned-out ivory torch
+throw
+burned-out
+burned out
+You are standing on a path beside a gently flowing stream.  The path travels to the north and the east.
+You are on the gently flowing stream.  The upstream route is too narrow to  navigate and the downstream route is invisible due to twisting walls.  There is a narrow beach to land on.
+The way is too narrow.
+fuse
+string
+wire coil
+You insert the fuse into the brick.
+You insert the fuse into the brick.
+There is a coil of thin shiny wire here.
+You are on the south edge of a deep canyon.  Passages lead off to the east, south, and northwest.  You can hear the sound of flowing water below.
+The passage is too steep for carrying the coffin.
+The stairs are too steep for carrying the coffin.
+This is a winding passage.  It seems that there is only an exit on the east end, although the whirring from the round room can be heard faintly to the north.
+Mirror Room
+This is a large square room with tall ceilings.  On the south wall is an enormous mirror which fills the entire wall.  There are exits on the other three sides of the room.
+[if the enormous mirror is whole]There is an ugly person staring back at you.[otherwise]The mirror is broken into many pieces.[end if]
+There is a rumble from deep within the earth and the room shakes.
+The balloon floats away.  It seems to be ascending, due to its light load.
+launch
+Your balloon has hit the rim of the volcano, ripping the cloth and
+causing you a 500 foot drop.  Did you get your flight insurance?
+The balloon has landed.
+You have landed, but the balloon did not survive.
+The balloon leaves the ledge.
+The balloon leaves the ledge.
+This is a tiny cave with entrances west and north, and a dark, forbidding staircase leading down.
+Tiny Cave
+You are outside a large gateway, on which is inscribed: [paragraph break]
+[8 spaces]'Abandon every hope, all ye who enter here.'[paragraph break]
+The gate is open; through it you can see a desolation, with a pile of mangled corpses in one corner.  Thousands of voices, lamenting some hideous fate, can be heard.
+You have entered the Land of the Living Dead, a large desolate room.  Although it is apparently uninhabited, you can hear the sounds of thousands of lost souls weeping and moaning.  In the east corner are
+stacked the remains of dozens of previous adventurers who were less
+fortunate than yourself.  To the east is an ornate passage,
+apparently recently constructed.  A passage exits to the west.
+This is the Tomb of the Unknown Implementer. A hollow voice says:  'That's not a bug, it's a feature!'
+In the north wall of the room is the Crypt of the Implementers.  It is made of the finest marble, and apparently large enough for four headless corpses.  The crypt is [if the crypt is open]open[otherwise]closed[end if].  Above the entrance is the cryptic instruction: 'Feel Free'.
+Though large and aesthetically pleasing the marble crypt is empty; the sarcophagi, bodies, and rich treasure to be expected in a tomb of this magnificence are missing. Inscribed on one wall is the motto of the implementers, 'Feel Free'.  There is a door leading out of the crypt to the south.  The door is [if the crypt is open]open[otherwise]closed[end if].
+Although the implementers are dead, they foresaw that some cretin
+would tamper with their remains.  Therefore, they took steps to
+punish such actions.
+Unfortunately, we've run out of poles.  Therefore, in punishment for
+your most grievous sin, we shall deprive you of all your valuables,
+and of your life.
+Suddenly, as you wait in the dark, you begin to feel somewhat
+disoriented.  The feeling passes, but something seems different.  
+As you regain your composure, the cloaked figure appears before you,
+and says, 'You are now ready to face the ultimate challenge of
+Zork.  Should you wish to do this somewhat more quickly in the
+future, you will be given a magic phrase which will at any time
+transport you by magic to this point.  To select the phrase, say
+	INCANT '<word>'
+and you will be told your own magic phrase to use by saying
+	INCANT '<word> <phrase>'
+Good luck, and choose wisely!'
+Some invisible force prevents you from passing through the gate.
+Ding Dong.[paragraph break]
+The bell suddenly becomes red hot and falls to the ground. The
+wraiths, as if paralyzed, stop their jeering and slowly turn to face
+you.  On their ashen faces, the expression of a long-forgotten terror
+takes shape.
+In your confusion, the candles drop to the ground (and they are out).
+The tension of this ceremony is broken, and the wraiths, amused but
+shaken at your clumsy attempt, resume their hideous jeering.
+[description of the black book][paragraph break]
+Each word of the prayer reverberates through the hall in a deafening
+confusion.  As the last word fades, a voice, loud and commanding,
+speaks: 'Begone, fiends!'.  A heart-stopping scream fills the cavern, 
+and the spirits, sensing a greater power, flee through the walls.
+[description of the black book][paragraph break]
+The tension of this ceremony is broken, and the wraiths, amused but
+shaken at your clumsy attempt, resume their hideous jeering.
+Here lie the implementers, whose heads were placed on poles by the Keeper of the Dungeon for amazing untastefulness.
+There are four heads here, mounted securely on poles.
+HEADS
+HEAD
+POLE
+POLES
+PDL
+BKD
+TAA
+MARC
+IMPLEMENTORS
+LOSER
+Although the implementers are dead, they foresaw that some cretin
+would tamper with their remains.  Therefore, they took steps to
+punish such actions.
+Unfortunately, we've run out of poles.  Therefore, in punishment for
+your most grievous sin, we shall deprive you of all your valuables,
+and of your life.
+Although the implementers are dead, they foresaw that some cretin
+would tamper with their remains.  Therefore, they took steps to
+punish such actions.
+Unfortunately, we've run out of poles.  Therefore, in punishment for
+your most grievous sin, we shall deprive you of all your valuables,
+and of your life.
+There is a large pile of empty Coke bottles here, evidently produced by the implementers during their long struggle to win totally.
+Many empty Coke bottles are here.  Alas, they can't hold water.
+[listing text]
+<DEFINE FEEL-FREE (LOSER)[line break]
+		   <TELL 'FEEL FREE, CHOMPER!'>>[line break]
+			...[line break]
+The rest is, alas, unintelligible (as were the implementers).
+There is a gigantic pile of line-printer output here.  Although the
+paper once contained useful information, almost nothing can be
+distinguished now.
+There is an enormous stack of line-printer paper here.  It is barely readable.
+Congratulations!  You've managed to break all those bottles.
+Fortunately for your feet, they were made of magic glass and disappear
+immediately.
+Congratulations!  You've managed to break all those bottles.
+Fortunately for your feet, they were made of magic glass and disappear
+immediately.
+Somehow, [the second noun] managed to disappear as well.
+Congratulations!  You've managed to break all those bottles.
+Fortunately for your feet, they were made of magic glass and disappear
+immediately.
+Somehow, [the second noun] managed to disappear as well.
+throw
+Congratulations!  You've managed to break all those bottles.
+Fortunately for your feet, they were made of magic glass and disappear
+immediately.
+A chasm runs southwest to northeast.  You are on the south edge; the path exits to the south and to the east.
+Are you out of your mind?
+This is a high north-south passage, which forks to the northeast.
+This is a large room with a ceiling which cannot be detected from the ground. There is a narrow passage from east to west and a stone stairway leading upward.  The room is extremely noisy.  In fact, it is difficult to hear yourself think.
+[direction]
+ECHO
+[player's command]
+ECHO
+The acoustics of the room change subtly.
+platinum bar
+There is a large platinum bar here.
+This is a cave.  Passages exit to the south and to the east, but the cave narrows to a crack to the west.  The earth is particularly damp here.
+It is too narrow for most insects.
+A chasm, evidently produced by an ancient river, runs through the
+cave here.  Passages lead off in all directions.
+This is a small cave whose exits are on the south and northwest.
+excretement
+shit
+crap
+poop
+There is a large shovel here.
+large shovel
+Mirror Room
+This is a large square room with tall ceilings.  On the south wall is a gigantic mirror which fills the entire wall.  There are exits on the other three sides of the room.
+[if the gigantic mirror is whole]There is an ugly person staring back at you.[otherwise]The mirror is broken into many pieces.[end if]
+There is a rumble from deep within the earth and the room shakes.
+This is a cold and damp corridor where a long east-west passageway intersects with a northward path.
+This is a steep and narrow crawlway.  There are two exits nearby to
+the south and southwest.
+Tiny Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding staircase leading down.
+This is an ancient room, long under water.  There are exits here to the southeast and upward.
+[if the pdl3 is on-stage]You are in a large cavernous room, north of a large reservoir.[otherwise]You are in a large cavernous room, the south of which was formerly a reservoir.[end if]  There is a tunnel leaving the room to the north.
+On the shore lies Poseidon's own crystal trident.
+Poseidon's own crystal trident is here.
+This is a small chamber, which appears to have been part of a coal mine. On the south wall of the chamber the letters 'Granite Wall' are etched in the rock. To the east is a long passage and there is a steep metal slide twisting downward. To the north is a small opening.
+It's already broken.
+Haven't you done enough damage already?
+You have broken the mirror.  I hope you have a seven years supply of
+good luck handy.
+It's already broken.
+Haven't you done enough damage already?
+You have broken the mirror.  I hope you have a seven years supply of
+good luck handy.
+Nobody but a greedy surgeon would allow you to attempt that trick.
+Nobody but a greedy surgeon would allow you to attempt that trick.
+Slide
+This is an uncomfortable spot within the coal chute.  The rope to which you are clinging can be seen rising into the darkness above. There is more rope dangling below you.
+Slide
+This is another spot within the coal chute.  Above you the rope
+climbs into darkness and the end of the rope is dangling five feet beneath you.
+Slide
+You have reached the end of your rope.  Below you is darkness as
+the chute makes a sharp turn.  On the east here is a small ledge which you might be able to stand on.
+This is a narrow ledge abutting the coal chute, in which a rope can be seen passing downward.  Behind you, to the south, is a small room.
+This is a small room with rough walls, and a ceiling which is steeply
+sloping from north to south. There is coal dust covering almost
+everything, and little bits of coal are scattered around the only exit
+(which is a narrow passage to the north). In one corner of the room is
+an old coal stove which lights the room with a cheery red glow.  There
+is a very narrow crack in the north wall.
+On the floor sits a red crystal sphere.
+There is red crystal sphere here.
+PALANTHIR
+STONE
+SEEING
+GLASS
+BALL
+[red sphere text]
+You see only darkness.
+As you peer into the sphere, a strange vision takes shape of
+a distant room, which can be described clearly....[paragraph break]
+[description of the location of the white crystal sphere][paragraph break]
+The vision fades, revealing only an ordinary crystal sphere.
+You are standing at the entrance of what might have been a coal
+mine. To the northeast and the northwest are entrances to the mine,
+and there is another exit on the south end of the room.
+You are a small room.  Strange squeaky sounds may be heard coming from
+the passage at the west end.  You may also escape to the south.
+You are in a small room which has only one door, to the east.  In the corner of the room on the ceiling is a large vampire bat who is obviously deranged and holding his nose.
+A deranged giant vampire bat (a reject from WUMPUS) swoops down
+from his belfry and lifts you away....
+Coal Mine
+This is a non-descript part of a coal mine.
+A deranged giant vampire bat (a reject from WUMPUS) swoops down
+from his belfry and lifts you away....
+This is a large room, in the middle of which is a small shaft
+descending through the floor into darkness below.  To the west and
+the north are exits from this room.  Constructed over the top of the
+shaft is a metal framework to which a heavy iron chain is attached.
+basket
+At the end of the chain is a basket.
+dumbwaiter
+cage
+basket
+This is a small square room which is at the bottom of a long
+shaft. To the east is a passageway and to the northeast a very narrow
+passage. In the shaft can be seen a heavy iron chain.
+basket
+dumbwaiter
+cage
+You wouldn't fit and would die if you could.
+This is a narrow tunnel with large wooden beams running across
+the ceiling and around the walls.  A path from the south splits into
+paths running west and northeast.
+This is a small non-descript room.  However, from the direction
+of a small descending staircase a foul odor can be detected.  To the
+east is a narrow path.
+This is a small room which smells strongly of coal gas.
+There is a sapphire-encrusted bracelet here.
+Oh dear.  It appears that the smell coming from this room was coal gas.  I would have thought twice about carrying a torch in here.
+This is a very small room.  In the corner is a rickety wooden
+ladder, leading downward.  It might be safe to descend.  There is
+also a staircase leading upward.
+This is a rather wide room.  On one side is the bottom of a narrow wooden ladder.  To the northeast and the south are passages
+leaving the room.
+heap
+small
+There is a small heap of coal here.
+This is a long and narrow passage, which is cluttered with broken
+timbers.  A wide passage comes from the north and turns at the 
+southwest corner of the room into a very narrow passageway.
+pile
+wooden
+There is a wooden timber on the ground here.
+You cannot fit through this passage with that load.
+The chain is not climbable.
+Machine Room
+This is a large room which seems to be air-conditioned.  In one corner there is a machine (?) which is shaped somewhat like a clothes dryer.  On the 'panel' there is a switch which is labelled in a dialect of Swahili.  Fortunately, I know this dialect and the label translates to START.  The switch does not appear to be manipulable by any human hand (unless the fingers are about 1/16 by 1/4 inch).  On
+the front of the machine is a large lid, which is [if the machine is open]open[otherwise]closed[end if].
+lid
+dryer
+pdp10
+vax
+machine
+lid
+You'll cannot manipulate the switch with your hands.
+It seems that [a second noun] won't do.
+The machine doesn't seem to want to do anything.
+The machine comes to life (figuratively) with a dazzling display of colored lights and bizarre noises.  After a few moments, the excitement abates.
+gunk
+There is an enormous diamond (perfectly cut) here.
+enormous
+The slag turns out to be rather insubstantial, and crumbles into dust at your touch.  It must not have been very valuable.
+You are standing on the top of the Flood Control Dam #3, which was quite a tourist attraction in times far distant.  There are paths to the north, south, east, and down.  There is a control panel here.  There is a large metal bolt on the panel. Above the bolt is a small green plastic bubble.  [if gate flag is true]The green bubble is glowing.[end if]
+This room appears to have been the waiting room for groups touring the dam.  There are exits here to the north and east marked 'Private', though the doors are open, and an exit to the south.
+Some guidebooks entitled 'Flood Control Dam #3' are on the reception
+desk.
+There are tour guidebooks here.
+[guidebook text]
+Guide Book to
+Flood Control Dam #3
+Flood Control Dam #3 (FCD#3) was constructed in year 783 of the
+Great Underground Empire to harness the destructive power of the
+Frigid River.  This work was supported by a grant of 37 million
+zorkmids from the Central Bureaucracy and your omnipotent local
+tyrant Lord Dimwit Flathead the Excessive. This impressive
+structure is composed of 3.7 cubic feet of concrete, is 256 feet
+tall at the center, and 193 feet wide at the top.  The reservoir
+created behind the dam has a volume of 37 billion cubic feet, an
+area of 12 million square feet, and a shore line of 36 thousand
+feet.[paragraph break]
+The construction of FCD#3 took 112 days from ground breaking to
+the dedication. It required a work force of 384 slaves, 34 slave
+drivers, 12 engineers, 2 turtle doves, and a partridge in a pear
+tree. The work was managed by a command team composed of 2345
+bureaucrats, 2347 secretaries (at least two of whom can type),
+12,256 paper shufflers, 52,469 rubber stampers, 245,193 red tape
+processors, and nearly one million dead trees.[paragraph break]
+We will now point out some of the more interesting features
+of FCD#3 as we conduct you on a guided tour of the facilities.  You start your tour here in the Dam Lobby.  You will notice on your right that .........
+matches
+match
+flint
+There is a matchbook whose cover says 'Visit Beautiful FCD#3' here.
+[matchbook text]
+[unicode 91]close cover before striking BKD[unicode 93]
+YOU too can make BIG MONEY in the exciting field of
+PAPER SHUFFLING!
+Mr. TAA of Muddle, Mass. says:  'Before I took this course I used
+to be a lowly bit twiddler.  Now with what I learned at MIT Tech
+I feel really important and can obfuscate and confuse with the best.'[paragraph break]
+Mr. MARC had this to say: 'Ten short days ago all I could look
+forward to was a dead-end job as a doctor.  Now I have a promising
+future and make really big Zorkmids.'[paragraph break]
+MIT Tech can't promise these fantastic results to everyone.  But when
+you earn your MDL degree from MIT Tech your future will be brighter.[paragraph break]
+Send for our free brochure today
+This is what appears to have been the maintenance room for Flood
+Control Dam #3, judging by the assortment of tool chests around the
+room.  Apparently, this room has been ransacked recently, for most of
+the valuable equipment is gone. On the wall in front of you is a
+group of buttons, which are labelled in EBCDIC. However, they are of
+different colors:  Blue, Yellow, Brown, and Red. The doors to this
+room are in the west and south ends.
+The lights within the room come on.
+The lights within the room shut off.
+There is an object which looks like a tube of toothpaste here.
+tube of toothpaste
+Frobozz Magic Gunk Company:  All Purpose Gunk
+gunk
+glue
+There is some gunk here.
+The tube refuses to accept anything.
+The viscous material oozes into your hand.
+squeeze [tube]
+get all from [tube]
+up to your ankles.
+up to your shin.
+up to your knees.
+up to your hips.
+up to your waist.
+up to your chest.
+up to your neck.
+over your head.
+high in your lungs.
+putty
+toothpaste
+The blue button appears to be jammed.
+There is a rumbling sound and a stream of water appears to burst from the east wall of the room (apparently, a leak has occurred in a pipe.)
+leak
+leak
+The water is [message in row n of the Table of Drowning Messages]
+  I'm afraid you have done drowned yourself.
+By some miracle of elven technology, you have managed to stop the
+leak in the dam.
+The room is full of water and cannot be entered.
+The room is full of water and cannot be entered.
+Click.
+Click.
+The bolt won't turn using [the second noun].
+The bolt won't turn with your best effort.
+The sluice gates open and water pours through the dam.
+The sluice gates close and water starts to collect behind the dam.
+[if the pdl3 is on-stage]You are on the reservoir.  Beaches can be seen north and south.  Upstream a small stream enters the reservoir through a narrow cleft
+in the rocks.  The dam can be seen downstream.[otherwise]You are on what used to be a large reservoir, but which is now a large mud pile.  There are 'shores' to the north and south.[end if]
+pump
+airpump
+There is a small pump here.
+chest
+Lying half buried in the mud is an old trunk, bulging with jewels.
+There is an old trunk here, bulging with assorted jewels.
+You are at the base of Flood Control Dam #3, which looms above you
+and to the north.  The river Frigid is flowing by here.  Across the river are the White Cliffs which seem to form a giant wall stretching from north to south along the east shore of the river as it winds its way downstream.
+A sharp stick, which appears to have been broken at one end, is here.
+There is a broken sharp stick here.
+There is a folded pile of plastic here which has a small valve
+attached.
+boat
+plastic boat (with hole)
+pile
+boat
+plastic
+Well done.  The boat is repaired.
+plastic
+raft
+seaworthy
+There is an inflated boat here.
+The boat inflates and appears seaworthy.
+There is a hissing sound and the boat deflates.
+You can't go there in a magic boat.
+fine print
+fineprint
+[tan label text]
+!!!! 	FROBOZZ MAGIC BOAT COMPANY  !!!!
+Hello, Sailor![paragraph break]
+Instructions for use:[paragraph break]
+[four spaces]To get into boat, type 'BOARD BOAT'[line break]
+[four spaces]To leave boat, say 'DISEMBARK'[paragraph break]
+[four spaces]To get into a body of water, say 'LAUNCH'[paragraph break]
+[four spaces]To get to shore, say 'LAND'[paragraph break]
+This boat is guaranteed against all defects in parts and
+workmanship for a period of 76 milliseconds from date of purchase or
+until first used, whichever comes first.[paragraph break]
+WARNING:  This boat is made of plastic.[paragraph break]
+Good Luck!
+Frigid River
+You cannot go upstream due to strong currents.
+You are on the River Frigid in the vicinity of the Dam.  The river flows quietly here.  There is a landing on the west shore.
+The River turns a corner here making it impossible to see the
+Dam.  The White Cliffs loom on the east bank and large rocks prevent
+landing on the west.
+The river descends here into a valley.  There is a narrow beach on
+the east below the cliffs and there is some shore on the west which may be suitable.  In the distance a faint rumbling can be heard.
+The river is running faster here and the sound ahead appears to bethat of rushing water.  On the west shore is a sandy beach.  A small area of beach can also be seen below the Cliffs.
+The sound of rushing water is nearly unbearable here.  On the west
+shore is a large landing area.
+ 
+Unfortunately, a rubber raft doesn't provide much protection from the unfriendly sorts of rocks and boulders one meets at the bottom of many waterfalls.  Including this one.
+There is a red buoy here (probably a warning).
+The White Cliffs prevent your landing here.
+You are on the west shore of the river.  An entrance to a cave is
+to the northwest.  The shore is very rocky here.
+You are on a narrow strip of beach which runs along the base of the White Cliffs. The only path here is a narrow one, heading south
+along the Cliffs.
+White Cliffs Beach
+You are on a rocky, narrow strip of beach beside the Cliffs.  A narrow path leads north along the shore.
+White Cliffs Beach
+You are on a large sandy beach at the shore of the river, which is flowing quickly by.  A path runs beside the river to the south here.
+You are on the shore of the River.  The river here seems somewhat treacherous.  A path travels from north to south here, the south end quickly turning around a sharp corner.
+You are at the top of Aragain Falls, an enormous waterfall with a drop of about 450 feet.  The only path here is on the north end.  [if rainbow flag is true]A solid rainbow spans the falls.[otherwise]A beautiful rainbow can be seen over the falls and to the east.[end if]
+You are on top of a rainbow (I bet you never thought you would walk on a rainbow), with a magnificent view of the Falls.  The rainbow travels east-west here.  There is an NBC Commissary here.
+The rainbow seems to have become somewhat run-of-the-mill.
+Suddenly, the rainbow appears to become solid and, I venture,
+walkable (I think the giveaway was the stairs and bannister).
+The structural integrity of the rainbow seems to have left it,
+leaving you about 450 feet in the air, supported by water vapor.
+Very good.
+At the end of the rainbow is a pot of gold.
+There is a pot of gold here.
+beautiful
+sculpture
+rock
+Something seems funny about the feel of the buoy.
+wooden barrel
+There is a man-sized barrel here which you might be able to enter.
+You are inside a barrel.  Congratulations.  Etched into the side of the barrel is the word 'Geronimo!'.  From your position, you cannot see the falls.
+[8 spaces]
+<^A-Z>
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+You realize, just in time, that disembarking here would probably be fatal.
+incant [text]
+[one of]Sorry, only one incantation to a customer.[or]Incantations are useless once you have gotten this far[at random]
+[a in upper case]
+[b in upper case]
+That spell has no obvious effect.
+That spell has no obvious effect.
+That spell has no obvious effect.
+<^A-Z>
+Sorry, your secret word must begin with a letter.
+A hollow voice replies '[encryption of a]'
+<^A-Z>
+That spell has no obvious effect.
+<^A-Z>
+That spell has no obvious effect.
+That spell has no obvious effect.
+That spell has no obvious effect.
+As the last syllable of your spell fades into silence, darkness
+envelops you, and the earth shakes briefly.  Then all is quiet.
+You are standing at the top of a flight of stairs that lead down to a passage below.  Dim light, as from torches, can be seen in the passage.  Behind you the stairs lead into untouched rock.
+The wall is solid rock.
+You are standing near one end of a long, dimly lit hall.  At the south stone stairs ascend.  To the north the corridor is illuminated
+by torches set high in the walls, out of reach.  On one wall is a red
+button.
+red
+button
+switch
+red button
+The button is already depressed.
+The button becomes depressed.
+The button pops back out.
+You are in a small room, with narrow passages exiting to the north
+and south.  A narrow red beam of light crosses the room at the north
+end, inches above the floor.[if beam stopped is true]The beam is stopped halfway across the room by a sword lying on the floor.[end if]
+The beam is now blocked by a sword lying on the floor.
+No doubt you have a bottle of moonbeams as well.
+Saves are not permitted during the end game.
+This is part of the long hallway.  The east and west walls are dressed stone.  In the center of the hall is a shallow stone channel. In the center of the room the channel widens into a large hole around which is engraved a compass rose. A passage enters from the south. A large mirror fills the north side of the hallway.[if mirror open is true]  The mirror is mounted on a panel which has been opened outward.[end if]
+mirror
+panel
+Inside Mirror
+[5 spaces]You are inside a rectangular box of wood whose structure is rather
+complicated.  Four sides and the roof are filled in, and the floor is
+open.[paragraph break]
+[5 spaces]As you face the side opposite the entrance, two short sides of
+carved and polished wood are to your left and right.  The left panel
+is mahogany, the right pine.  The wall you face is red on its left
+half and black on its right.  On the entrance side, the wall is white
+opposite the red part of the wall it faces, and yellow opposite the
+black section.  The painted walls are at least twice the length of
+the unpainted ones.  The ceiling is painted blue.[paragraph break]
+[5 spaces]In the floor is a stone channel about six inches wide and a foot
+deep.  The channel is oriented in a north-south direction.  In the
+exact center of the room the channel widens into a circular
+depression perhaps two feet wide.  Incised in the stone around this
+area is a compass rose.[paragraph break]
+[5 spaces]Running from one short wall to the other at about waist height
+is a wooden bar, carefully carved and drilled.  This bar is pierced
+in two places.  The first hole is in the center of the bar (and thus
+the center of the room).  The second is at the left end of the room
+(as you face opposite the entrance).  Through each hole runs a wooden
+pole.[paragraph break]
+[5 spaces]The pole at the left end of the bar is short, extending about a foot
+above the bar, and ends in a hand grip.  The pole is [if pole up is true]up[otherwise]down[end if].[paragraph break]
+[5 spaces]The long pole at the center of the bar extends from the ceiling
+through the bar to the circular area in the stone channel.  This
+bottom end of the pole has a T-bar a bit less than two feet long
+attached to it, and on the T-bar is carved an arrow.  The arrow and
+T-bar are pointing [Mirror direction].
+wall
+wall
+wall
+wall
+yellow
+black
+The structure rotates clockwise.
+The arrow is now pointing [Mirror direction].
+The short pole stops the structure from rotating.
+The structure rotates counterclockwise.
+The arrow is now pointing [Mirror direction].
+The short pole stops the structure from rotating.
+The pole cannot be raised further.
+The pole is now slightly above the floor.
+The pole is lowered into the channel.
+The pole cannot be lowered further.
+The structure rocks back and forth slightly but doesn't move.
+The structure wobbles north and stops over another compass rose.[paragraph break]
+The structure wobbles as it moves, alerting the Guardians.[paragraph break]
+Suddenly, the Guardians realize that someone is trying to sneak by them in the structure.  They awake and, in perfect unison, hammer the box and its contents (including you) to pulp.  Satisfied, they then resume their posts.[paragraph break]
+The structure has reached the end of the stone channel and won't budge.
+The structure wobbles north and stops over another compass rose.
+The structure wobbles north and stops over another compass rose.
+The structure wobbles north and stops over another compass rose.
+The structure has reached the end of the stone channel and won't budge.
+The structure slides north and stops over another compass rose.
+The structure slides north and stops over another compass rose.
+The structure slides north and stops over another compass rose.
+The structure wobbles south and stops over another compass rose.[paragraph break]
+The structure wobbles as it moves, alerting the Guardians.[paragraph break]
+Suddenly, the Guardians realize that someone is trying to sneak by them in the structure.  They awake and, in perfect unison, hammer the box and its contents (including you) to pulp.  Satisfied, they then resume their posts.[paragraph break]
+The structure has reached the end of the stone channel and won't budge.
+The structure wobbles south and stops over another compass rose.
+The structure wobbles south and stops over another compass rose.
+The structure has reached the end of the stone channel and won't budge.
+The structure slides south and stops over another compass rose.
+The structure slides south and stops over another compass rose.
+The structure slides south and stops over another compass rose.
+Narrow Hallway
+This is part of the long hallway.  The east and west walls are
+dressed stone.  In the center of the hall is a shallow stone channel.
+In the center of the room the channel widens into a large hole around
+which is engraved a compass rose.The north side of the room is divided by a wooden wall into small hallways to the northeast and northwest.
+The pine door opens into the field of view of the Guardians.[paragraph break]
+The Guardians awake and, in perfect unison, destroy you with
+their stone bludgeons.  Satisfied, they resume their posts.
+The pine door opens into the field of view of the Guardians.[paragraph break]
+The Guardians awake and, in perfect unison, destroy you with
+their stone bludgeons.  Satisfied, they resume their posts.
+The pine door opens into the field of view of the Guardians.[paragraph break]
+The Guardians awake and, in perfect unison, destroy you with
+their stone bludgeons.  Satisfied, they resume their posts.
+The structure rocks back and forth slightly but doesn't move.
+The pine wall swings open.
+There is no way out.
+This is a narrow room whose east wall is a large mirror.  Somewhat to the north, identical stone statues face each other from pedestals on opposite sides of the corridor.  The statues represent Guardians of Zork, a military order of ancient lineage.  They are portrayed as heavily armored warriors standing at ease, hands clasped around formidable bludgeons.
+Narrow Room
+This is a narrow room whose west wall is a large mirror. Somewhat to the north, identical stone statues face each other from
+pedestals on opposite sides of the corridor.  The statues represent Guardians of Zork, a military order of ancient lineage.  They are portrayed as heavily armored warriors standing at ease, hands clasped around formidable bludgeons.
+The Guardians awake and, in perfect unison, destroy you with
+their stone bludgeons.  Satisfied, they resume their posts.
+The Guardians awake and, in perfect unison, destroy you with
+their stone bludgeons.  Satisfied, they resume their posts.
+Dungeon Entrance
+This is a north-south hallway which ends in a large wooden door. The south side of the room is divided by a wooden wall into small hallways to the southeast and southwest.
+The Guardians awake and, in perfect unison, destroy you with
+their stone bludgeons.  Satisfied, they resume their posts.
+The Guardians awake and, in perfect unison, destroy you with
+their stone bludgeons.  Satisfied, they resume their posts.
+This is a narrow north-south corridor.  At the south end is a door and at the north end is an east-west corridor.  The door is [if the large wooden door is open]open.[otherwise]closed.[end if]
+The dungeon master is taken momentarily by surprise.  He dodges your
+blow and then, with a disappointed expression on his face, he raises
+his staff and traces a complicated pattern in the air.  As it
+completes you crumble into dust.
+The dungeon master is taken momentarily by surprise.  He dodges your
+blow and then, with a disappointed expression on his face, he raises
+his staff and traces a complicated pattern in the air.  As it
+completes you crumble into dust.
+follow
+The dungeon master answers, 'I will follow.'
+stay
+The dungeon master says, 'I will stay.'
+temple
+The dungeon master says, 'Excellent.'
+The dungeon master, obviously disappointed in your lack of knowledge, shakes his head and mumbles 'I guess they'll let anyone in the Dungeon these days'.  With
+that, he departs.
+The dungeon master says, 'You are wrong.  You have one more chance.'
+The dungeon master says, 'You are wrong.  You have [tries left in words] more chances.'
+forest
+The dungeon master says, 'Excellent.'
+The dungeon master, obviously disappointed in your lack of knowledge, shakes his head and mumbles 'I guess they'll let anyone in the Dungeon these days'.  With
+that, he departs.
+The dungeon master says, 'You are wrong.  You have one more chance.'
+The dungeon master says, 'You are wrong.  You have [tries left in words] more chances.'
+touch
+rub
+The dungeon master, obviously pleased, says 'You are indeed a
+master of lore. I am proud to be at your service.'  The massive
+wooden door swings open, and the master motions for you to enter.
+The dungeon master, obviously disappointed in your lack of knowledge, shakes his head and mumbles 'I guess they'll let anyone in the Dungeon these days'.  With
+that, he departs.
+The dungeon master says, 'You are wrong.  You have one more chance.'
+The dungeon master says, 'You are wrong.  You have [tries left in words] more chances.'
+The dungeon master is quietly leaning on his staff here.
+The thief returns to consiousness.
+Time passes...and you die from some obscure poisoning.
+The mirror quietly swings shut.
+The booming voice asks: From which room can one enter the robber's hideaway without passing through the cyclops room?
+The booming voice asks: Besides the Temple, to which room is it possible to go from the Altar?
+The booming voice asks: What can be done to the Mirror that is useful?
+You hear a scream of anguish as you violate the robber's hideaway.  Using passages unknown to you, he rushes to its defense.
+A seedy-looking individual with a large bag just wandered through the room.  On the way through, he quietly abstracted all valuables from the room and from your possession, mumbling something about 'Doing unto others before...'
+A seedy-looking individual with a large bag just wandered through the room.  Finding nothing of value, he left disgruntled.
+The dungeon master follows you.
+The button pops back to its original position.
+A metallic voice says, 'Hello, Intruder!  Your unauthorized presence in the vault area of the Bank of Zork has set off all sorts of nasty surprises, several of which seem to have been fatal.  This message brought to you by the Frobozz Magic Alarm Company.'
+An epicene Gnome of Zurich, wearing a three-piece suit and carrying a
+ safety deposit box, materializes in the room.  'You seem to have
+ forgotten to deposit your valuables,' he says, tapping the lid of the
+ box impatiently.  'We don't usually allow customers to use the boxes
+ here, but we can make this ONE exception, I suppose...'  He looks
+ askance at you over his wire-rimmed bifocals.
+[pizza]
+The room trembles and 50,000 pounds of rock fall on you, turning you into a pancake.  [if the player is outside]Meteors, no doubt.[end if]
+You may recall your recent explosion.  Well, probably as a result of
+that, you hear an ominous rumbling, as if one of the rooms in the
+dungeon has collapsed.
+You may recall your recent explosion.  Well, probably as a result of that, you hear an ominous rumbling, as if one of the rooms in the
+dungeon has collapsed.
+The ledge collapses, probably as a result of the explosion.  A large
+chunk of it, which is attached to the hook, drags you down to the
+ground.  Fatally.
+The ledge collapses, leaving you with no place to land.
+The force of the explosion has caused the ledge to collapse
+belatedly.
+The ledge collapses, giving you a narrow escape.
+Now you've done it.  It seems that the brick has other properties
+than weight, namely the ability to blow you to smithereens.
+There is an explosion nearby.
+You notice that the [list of flaming things in the receptacle] has burned out, and that the cloth bag starts to deflate.
+The match has gone out.
+It appears that blow was too much for you.  I'm afraid you are dead.
+The lamp appears to be getting dimmer.
+The lamp appears to be getting dimmer.
+The lamp appears to be getting dimmer.
+The lamp appears to be getting dimmer.
+The lamp is dying.
+I hope you have more light than from a lamp.
+There is a knocking sound from the front of the house.
+Suddenly a sinister wraithlike figure, cloaked and hooded, appears
+seeming to float in the air before you.  In a low, almost inaudible
+voice he says, 'I welcome you to the ranks of the chosen of Zork. You
+have persisted through many trials and tests, and have overcome them
+all, dispelling the darkness of ignorance and danger.  One such as
+yourself is fit to join even the Implementers!'  He then raises his
+oaken staff, and chuckling, drifts away like a wisp of smoke, his
+laughter fading in the distance.
+This is an east-west corridor which turns north at its eastern and western ends.  The walls of the corridor are marble.  An additional passage leads south at the center of the corridor.
+This is a corridor with polished marble walls.  The corridor
+widens into larger areas as it turns east at its northern and
+southern ends.
+This is a corridor with polished marble walls.  The corridor widens into larger areas as it turns west at its northern and southern ends.
+This is a large east-west corridor which opens out to a northern
+parapet at its center.  You can see flames and smoke as you peer
+towards the parapet.  The corridor turns south at its east and west
+ends, and due south is a massive wooden door.  In the door is a small
+window barred with iron.  The door is [if the prison cell door is open]open[otherwise]closed.[end if]
+You are standing behind a stone retaining wall which rims a large parapet overlooking a fiery pit.  It is difficult to see through the smoke and flame which fills the pit, but it seems to be more or less bottomless.  It also extends upward out of sight.  The pit itself is of roughly dressed stone and circular in shape.  It is about two hundred feet in diameter.  The flames generate considerable heat, so it is rather uncomfortable standing here.
+There is an object here which looks like a sundial.  On it are an indicator arrow and (in the center) a large button.  On the face of the dial are numbers 'one' through 'eight'.  The indicator points to the number [dial number in words].
+'I prefer to stay where I am, thank you.'
+sun dial
+sundial
+sun-dial
+indicator
+arrow
+'I'm willing to accompany you, but not ride in your pocket!'
+'If you wish,' he replies.
+You are in a featureless prison cell.  You can see [if the prison cell door is open]the east-west corridor outside the open wooden door in front of you.[otherwise]only the flames and smoke of the pit out the small window in a closed door in front of you.[end if].
+You are in a featureless prison cell.  Its wooden door is securely fastened, and you can see only the flames and smoke of the pit out the small window.
+Prison Cell
+You are in a featureless prison cell.  Its wooden door is securely fastened, and you can see only the flames and smoke of the pit out its small window.  On the other side of the cell is a bronze door which seems to be [if the bronze door is open]open[otherwise]closed[end if].
+Prison Cell
+[5 spaces]This is a room of large size, richly appointed and decorated
+in a style that bespeaks exquisite taste.  To judge from its
+contents, it is the ultimate storehouse of the treasures of Zork.[paragraph break]
+[5 spaces]There are chests here containing precious jewels, mountains of
+zorkmids, rare paintings, ancient statuary, and beguiling curios.[paragraph break]
+[5 spaces]In one corner of the room is a bookcase boasting such volumes as
+'The History of the Great Underground Empire,' 'The Lives of the
+Twelve Flatheads,' 'The Wisdom of the Implementors,' and other
+informative and inspiring works.[paragraph break]
+[5 spaces]On one wall is a completely annotated map of the Great Underground
+Empire, showing points of interest, various troves of treasure, and
+indicating the locations of several superior scenic views.[paragraph break]
+[5 spaces]On a desk at the far end of the room may be found stock
+certificates representing a controlling interest in FrobozzCo
+International, the multinational conglomerate and parent company of
+the Frobozz Magic Boat Co., etc.[paragraph break]
+[5 spaces]As you gleefully examine your new-found riches, the Dungeon
+Master himself materializes beside you, and says, 'Now that you have solved all the mysteries of the Dungeon, it is time for you to assume your rightly-earned place in the scheme of things.  Long have I waited for one capable of releasing me from my burden!'  He taps you lightly on the head with his staff, mumbling a few well-chosen spells,
+and you feel yourself changing, growing older and more stooped.  For a moment there are two identical mages staring at each other among the treasure, then you watch as your counterpart dissolves into a mist and disappears, a sardonic grin on his face.
+Click.
