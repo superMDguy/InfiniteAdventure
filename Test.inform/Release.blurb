@@ -1,0 +1,57 @@
+! Blurb file created by Inform build 6M62
+
+status "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/CblorbModel.html" "/Users/coder/Documents/Code/InfiniteAdventure/Test.inform/Build/StatusCblorb.html"
+
+
+! Identification
+
+project folder "/Users/coder/Documents/Code/InfiniteAdventure/Test.inform"
+release to "/Users/coder/Documents/Code/InfiniteAdventure/Test.materials/Release"
+
+! Blorb instructions
+
+storyfile leafname "Test cave game.gblorb"
+storyfile "/Users/coder/Documents/Code/InfiniteAdventure/Test.inform/Build/output.ulx" include
+ifiction "/Users/coder/Documents/Code/InfiniteAdventure/Test.inform/Metadata.iFiction" include
+cover "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+picture 1 "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+release file "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+release file "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Small Cover.jpg"
+
+! Placeholder variables
+
+placeholder [IFID] = "D058A2F3-E80D-428D-8017-44E44968F7B0"
+placeholder [RELEASE] = "1"
+placeholder [YEAR] = "2016"
+placeholder [TITLE] = "Test cave game"
+placeholder [AUTHOR] = "superMDguy"
+placeholder [BLURB] = "A work of interactive fiction."
+
+! Other material to release
+
+
+! Website instructions
+
+placeholder [ENCODEDSTORYFILE] = "Test cave game.gblorb.js"
+template path "/Users/coder/Documents/Code/InfiniteAdventure/Test.materials/Templates"
+template path "/Users/coder/Library/Inform/Templates"
+template path "/Applications/Inform.app/Contents/Resources/Internal/Templates"
+placeholder [INTERPRETERSCRIPTS] = " "
+interpreter "Quixe" "g"
+base64 "/Users/coder/Documents/Code/InfiniteAdventure/Test.inform/Build/output.ulx" to "/Users/coder/Documents/Code/InfiniteAdventure/Test.materials/Release/interpreter/Test cave game.gblorb.js"
+
+! Website instructions
+
+template path "/Users/coder/Documents/Code/InfiniteAdventure/Test.materials/Templates"
+template path "/Users/coder/Library/Inform/Templates"
+template path "/Applications/Inform.app/Contents/Resources/Internal/Templates"
+css
+website "Standard"
+status instruction ||&nbsp;<a href="source:story.ni#line123"><img border=0 src=inform:/doc_images/Reveal.tif></a>||
+status alternative ||Using 'Release along with cover art', to provide something more distinctive than the default artwork above&nbsp;<a href=inform:/doc403.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a file of "Such-and-Such" called "whatever.pdf"', perhaps to add a manual, or a welcoming note&nbsp;<a href=inform:/doc401.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the source text'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a solution'&nbsp;<a href=inform:/doc411.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the library card'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory booklet'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory postcard'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||

@@ -15,7 +15,14 @@
 		<string>Natural</string>
 	</dict>
 	<key>IFMiscSettings</key>
-	<dict/>
+	<dict>
+		<key>IFSettingInfix</key>
+		<false/>
+		<key>IFSettingTestingTabHelpShown</key>
+		<true/>
+		<key>IFSettingTestingTabShownCount</key>
+		<integer>1</integer>
+	</dict>
 	<key>IFOutputSettings</key>
 	<dict/>
 	<key>IFRandomSettings</key>
